@@ -9,19 +9,19 @@
 
 # Обо мне 💬 :
 
-### - Мне 19 лет, я энтузиаст в области машинного обучения и искусственного интеллекта из Индии.
+### - Мне 21 год, я fullstack-разработчик из России.
+## - Учусь в Высшей Школе Экономики на программе "Информационная безопасность"
 
 <img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
 ### - Изучаю:
 - ✨ Структуры данных и алгоритмы  
-- ✨ Генеративно-состязательные сети (GANs)
+- ✨ Язык Golang
 
 ### - Хобби:
 - ✨ Играть в видеоигры  
 - ✨ Смотреть аниме  
-- ✨ Читать ранобэ  
-- ✨ Играть в бадминтон (почти профессионал 😄)
+- ✨ Linux)  
 
 ---
 
@@ -50,18 +50,9 @@
 
 Если хочешь связаться со мной — задать вопрос, пообщаться или поиграть вместе — просто напиши 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="t.me/prettyfacegoat">
+ <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://steamcommunity.com/id/depressedcoder/">
+  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
-
-</br></br></br>
-
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-</p>
-
