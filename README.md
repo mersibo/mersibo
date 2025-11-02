@@ -50,9 +50,9 @@
 
 Если хочешь связаться со мной — задать вопрос, пообщаться или поиграть вместе — просто напиши 😉.
 
-<a href="t.me/prettyfacegoat">
- <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
+<a href="https://t.me/prettyfacegoat">
+ <img align="left" alt="Tg" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
 </a>
 <a href="https://steamcommunity.com/id/depressedcoder/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
