@@ -20,7 +20,8 @@
 
 ### - Hobbies:
 - ✨ Playing video games  
-- ✨ Watching anime  
+- ✨ Watching anime
+- ✨ Listen music
 - ✨ Linux 😄
 
 ---
@@ -50,9 +51,9 @@
 
 If you want to reach out — to ask something, chat, or play together — feel free to message me 😉.
 
-<a href="t.me/prettyfacegoat">
- <img align="left" alt="Telegram" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
+<a href="https://t.me/prettyfacegoat">
+ <img align="left" alt="Telegram" width="160" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
 </a>
 <a href="https://steamcommunity.com/id/depressedcoder/">
-  <img align="left" alt="Steam" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
+  <img align="left" alt="Steam" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
