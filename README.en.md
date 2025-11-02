@@ -25,6 +25,7 @@
 - ✨ Linux 😄
 
 </br>
+
 ---
 
 # Languages & Tools 👨‍💻 🛠:
