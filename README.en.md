@@ -7,21 +7,21 @@
 
 ---
 
-# About ME 💬 :
+# About Me 💬 :
 
-### - I'm a 19-year-old Machine Learning & Artificial Intelligence Enthusiast from India.
+### - I'm a 21-year-old fullstack developer from Russia.  
+### - Currently studying at the Higher School of Economics in the “Information Security” program.
 
 <img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
 
-### - Learning :
+### - Learning:
 - ✨ Data Structures & Algorithms  
-- ✨ Generative Adversarial Networks
+- ✨ Golang
 
-### - Hobbies : 
-- ✨ Gaming Addict  
-- ✨ Watching Anime  
-- ✨ Reading Light Novels  
-- ✨ Badminton (Neighbourhood Professional XD)
+### - Hobbies:
+- ✨ Playing video games  
+- ✨ Watching anime  
+- ✨ Linux 😄
 
 ---
 
@@ -46,21 +46,13 @@
 
 ---
 
-# Contact Me :
+# Contacts :
 
-If you want to reach out to me about anything — be it a doubt, a friendly chat, or gaming together — just ping me 😉.
+If you want to reach out — to ask something, chat, or play together — feel free to message me 😉.
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+<a href="t.me/prettyfacegoat">
+ <img align="left" alt="Telegram" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
 </a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+<a href="https://steamcommunity.com/id/depressedcoder/">
+  <img align="left" alt="Steam" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
-
-</br></br></br>
-
-<p align="center">  
-  <a href="https://github.com/anuraghazra/github-readme-stats"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
-  </a>
-</p>
