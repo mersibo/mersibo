@@ -1,5 +1,5 @@
 # Konichiwa 👋  
-[🇬🇧 English](README.md)
+[🇬🇧 English](README.en.md)
 
 <div align="center">
 <img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
@@ -24,7 +24,7 @@
 - ✨ Слушать музыку
 - ✨ Linux)  
 
-
+</br>
 ---
 
 # Языки и инструменты 👨‍💻 🛠:
