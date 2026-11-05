@@ -1,0 +1,11 @@
+Static banner edited with the built-in imagegen tool.
+
+Edit this exact supplied 3:1 anime banner with two changes:
+1. Enlarge Kiyotaka Ayanokoji on the right enough that the TOPMOST HAIR strand JUST TOUCHES the TOP EDGE of the banner. No empty margin above hair; do not cut off any part of his head. Enlarge the character naturally by around 7-10%, anchoring lower torso at bottom, retaining same pose, exact face, expression and school uniform. Keep on right, don't overlap quote.
+2. Brighten the ENTIRE IMAGE by approximately 30% compared with source: a noticeable global lift in exposure and shadow visibility (roughly +0.38 stops, brightness 1.3x), across city, sky, face, clothing and text. The user explicitly wants LESS DARK now. Reveal more background city and fog while preserving charcoal monochrome and burgundy palette. No added spotlight or halo, no washed-out white shadows.
+Keep everything else identical: wide 3:1 crop, background layout, quote size, gothic serif lettering, four lines, position and burgundy ornament. EXACT text:
+Нет ничего опаснее
+невежественного друга,
+мудрый враг
+предпочтительнее
+No new text. Preserve text spelling and large typography precisely.

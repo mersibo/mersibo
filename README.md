@@ -1,61 +1,85 @@
-# Konichiwa 👋  
-[🇬🇧 English](README.en.md)
+<img src="assets/banner-brighter.png" alt="Kiyotaka Ayanokoji — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
 
-<div align="center">
-<img height="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
-</div>
+# mersibo
 
----
+**Русский** · [English](README.en.md)
 
-# Обо мне 💬 :
+Fullstack-разработчик.
 
-### - Мне 21 год, я fullstack-разработчик из России.
-### - Учусь в Высшей Школе Экономики на программе "Информационная безопасность"
+Магистр ВШЭ по направлению «Информационная безопасность».
 
-<img height="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+<img src="assets/divider.svg" alt="" width="100%" />
 
-### - Изучаю:
-- ✨ Структуры данных и алгоритмы  
-- ✨ Язык Golang
+## Стек
 
-### - Хобби:
-- ✨ Играть в видеоигры  
-- ✨ Смотреть аниме
-- ✨ Слушать музыку
-- ✨ Linux)  
+**Языки**
 
-</br>
+<p><img src="assets/python-badge.svg" alt="Python" height="30" />
+<img src="assets/java-badge.svg" alt="Java" height="30" />
+<img src="assets/go-badge.svg" alt="Go" height="30" />
+<img src="assets/c-badge.svg" alt="C" height="30" />
+<img src="assets/csharp-badge.svg" alt="C#" height="30" />
+<img src="assets/cpp-badge.svg" alt="C++" height="30" />
+<img src="assets/javascript-badge.svg" alt="JavaScript" height="30" />
+<img src="assets/typescript-badge.svg" alt="TypeScript" height="30" />
+<img src="assets/bash-badge.svg" alt="Bash" height="30" /></p>
 
----
+**Frontend**
 
-# Языки и инструменты 👨‍💻 🛠:
-</br>
+<p><img src="assets/html-badge.svg" alt="HTML" height="30" />
+<img src="assets/css-badge.svg" alt="CSS" height="30" />
+<img src="assets/react-badge.svg" alt="React" height="30" /></p>
 
-<p align="center">
+**Backend**
 
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/python.png" alt="python" width="120" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java" width="100" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" height="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" height="50">
-</br>
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" height="50">
-<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" height="50">
+<p><img src="assets/fastapi-badge.svg" alt="FastAPI" height="30" />
+<img src="assets/django-badge.svg" alt="Django" height="30" /></p>
+
+**Базы данных**
+
+<p><img src="assets/postgresql-badge.svg" alt="PostgreSQL" height="30" />
+<img src="assets/mysql-badge.svg" alt="MySQL" height="30" />
+<img src="assets/mongodb-badge.svg" alt="MongoDB" height="30" />
+<img src="assets/redis-badge.svg" alt="Redis" height="30" /></p>
+
+**Инфраструктура**
+
+<p><img src="assets/docker-badge.svg" alt="Docker" height="30" />
+<img src="assets/kubernetes-badge.svg" alt="Kubernetes" height="30" />
+<img src="assets/google-cloud-badge.svg" alt="Google Cloud" height="30" /></p>
+
+**Инструменты**
+
+<p><img src="assets/git-badge.svg" alt="Git" height="30" />
+<img src="assets/linux-badge.svg" alt="Linux" height="30" />
+<img src="assets/vs-code-badge.svg" alt="VS Code" height="30" /></p>
+
+**Разработка игр**
+
+<p><img src="assets/unity-badge.svg" alt="Unity" height="30" /></p>
+
+**Направления**
+
+<p><img src="assets/ai-badge.svg" alt="AI" height="30" />
+<img src="assets/data-science-badge.svg" alt="Data Science" height="30" /></p>
+
+## Сейчас изучаю
+
+<img src="assets/rust-badge.svg" alt="Rust" height="30" />
+
+## Интересы
+
+<p>
+<img src="assets/dota2.svg" alt="Dota 2" title="Dota 2" width="34" height="34" />
+&nbsp;&nbsp;
+<img src="assets/rust.svg" alt="Rust" title="Rust" width="34" height="34" />
+&nbsp;&nbsp;
+<img src="assets/lua.svg" alt="Lua" title="Lua" width="34" height="34" />
 </p>
 
----
+<img src="assets/divider.svg" alt="" width="100%" />
 
-# Контакты :
+## Контакты
 
-Если хочешь связаться со мной — задать вопрос, пообщаться или поиграть вместе — просто напиши 😉.
-
-<a href="https://t.me/prettyfacegoat">
- <img align="left" alt="Tg" width="150" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/telegram.png" />
-</a>
-<a href="https://steamcommunity.com/id/depressedcoder/">
-  <img align="left" alt="Steam" width="130" height="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
+<a href="https://t.me/prettyfacegoat"><img src="assets/telegram-badge.svg" alt="Telegram" height="30" /></a>
+<a href="https://steamcommunity.com/id/depressedcoder/"><img src="assets/steam-badge.svg" alt="Steam" height="30" /></a>
