@@ -1,0 +1,32 @@
+Technology logos: Skill Icons — https://github.com/tandpfun/skill-icons (MIT). Original colors on dark tiles.
+AI and Data Science have no single official logo. Their generic pictograms are from Lucide — https://github.com/lucide-icons/lucide (ISC).
+Interest logos: Simple Icons — https://simpleicons.org/.
+
+python: https://skillicons.dev/icons?i=py&theme=dark
+java: https://skillicons.dev/icons?i=java&theme=dark
+go: https://skillicons.dev/icons?i=go&theme=dark
+c: https://skillicons.dev/icons?i=c&theme=dark
+csharp: https://skillicons.dev/icons?i=cs&theme=dark
+cpp: https://skillicons.dev/icons?i=cpp&theme=dark
+javascript: https://skillicons.dev/icons?i=js&theme=dark
+typescript: https://skillicons.dev/icons?i=ts&theme=dark
+bash: https://skillicons.dev/icons?i=bash&theme=dark
+html: https://skillicons.dev/icons?i=html&theme=dark
+css: https://skillicons.dev/icons?i=css&theme=dark
+react: https://skillicons.dev/icons?i=react&theme=dark
+fastapi: https://skillicons.dev/icons?i=fastapi&theme=dark
+django: https://skillicons.dev/icons?i=django&theme=dark
+postgresql: https://skillicons.dev/icons?i=postgres&theme=dark
+mysql: https://skillicons.dev/icons?i=mysql&theme=dark
+mongodb: https://skillicons.dev/icons?i=mongodb&theme=dark
+redis: https://skillicons.dev/icons?i=redis&theme=dark
+docker: https://skillicons.dev/icons?i=docker&theme=dark
+kubernetes: https://skillicons.dev/icons?i=kubernetes&theme=dark
+google-cloud: https://skillicons.dev/icons?i=gcp&theme=dark
+git: https://skillicons.dev/icons?i=git&theme=dark
+linux: https://skillicons.dev/icons?i=linux&theme=dark
+vs-code: https://skillicons.dev/icons?i=vscode&theme=dark
+unity: https://skillicons.dev/icons?i=unity&theme=dark
+rust: https://skillicons.dev/icons?i=rust&theme=dark
+ai: https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/brain-circuit.svg
+data-science: https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/chart-no-axes-combined.svg

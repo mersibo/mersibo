@@ -1,4 +1,4 @@
-<img src="assets/banner-final.png" alt="Kiyotaka Ayanokoji — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
+<img src="assets/banner-brighter.png" alt="Kiyotaka Ayanokoji — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
 
 # mersibo
 
@@ -14,58 +14,58 @@ Fullstack-разработчик.
 
 **Языки**
 
-<p><img src="assets/python-badge.svg" alt="Python" height="30" />
-<img src="assets/java-badge.svg" alt="Java" height="30" />
-<img src="assets/go-badge.svg" alt="Go" height="30" />
-<img src="assets/c-badge.svg" alt="C" height="30" />
-<img src="assets/csharp-badge.svg" alt="C#" height="30" />
-<img src="assets/cpp-badge.svg" alt="C++" height="30" />
-<img src="assets/javascript-badge.svg" alt="JavaScript" height="30" />
-<img src="assets/typescript-badge.svg" alt="TypeScript" height="30" />
-<img src="assets/bash-badge.svg" alt="Bash" height="30" /></p>
+<p><img src="assets/icons/python.svg" alt="Python" title="Python" width="48" height="48" />
+<img src="assets/icons/java.svg" alt="Java" title="Java" width="48" height="48" />
+<img src="assets/icons/go.svg" alt="Go" title="Go" width="48" height="48" />
+<img src="assets/icons/c.svg" alt="C" title="C" width="48" height="48" />
+<img src="assets/icons/csharp.svg" alt="C#" title="C#" width="48" height="48" />
+<img src="assets/icons/cpp.svg" alt="C++" title="C++" width="48" height="48" />
+<img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="48" height="48" />
+<img src="assets/icons/typescript.svg" alt="TypeScript" title="TypeScript" width="48" height="48" />
+<img src="assets/icons/bash.svg" alt="Bash" title="Bash" width="48" height="48" /></p>
 
 **Frontend**
 
-<p><img src="assets/html-badge.svg" alt="HTML" height="30" />
-<img src="assets/css-badge.svg" alt="CSS" height="30" />
-<img src="assets/react-badge.svg" alt="React" height="30" /></p>
+<p><img src="assets/icons/html.svg" alt="HTML" title="HTML" width="48" height="48" />
+<img src="assets/icons/css.svg" alt="CSS" title="CSS" width="48" height="48" />
+<img src="assets/icons/react.svg" alt="React" title="React" width="48" height="48" /></p>
 
 **Backend**
 
-<p><img src="assets/fastapi-badge.svg" alt="FastAPI" height="30" />
-<img src="assets/django-badge.svg" alt="Django" height="30" /></p>
+<p><img src="assets/icons/fastapi.svg" alt="FastAPI" title="FastAPI" width="48" height="48" />
+<img src="assets/icons/django.svg" alt="Django" title="Django" width="48" height="48" /></p>
 
 **Базы данных**
 
-<p><img src="assets/postgresql-badge.svg" alt="PostgreSQL" height="30" />
-<img src="assets/mysql-badge.svg" alt="MySQL" height="30" />
-<img src="assets/mongodb-badge.svg" alt="MongoDB" height="30" />
-<img src="assets/redis-badge.svg" alt="Redis" height="30" /></p>
+<p><img src="assets/icons/postgresql.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />
+<img src="assets/icons/mysql.svg" alt="MySQL" title="MySQL" width="48" height="48" />
+<img src="assets/icons/mongodb.svg" alt="MongoDB" title="MongoDB" width="48" height="48" />
+<img src="assets/icons/redis.svg" alt="Redis" title="Redis" width="48" height="48" /></p>
 
 **Инфраструктура**
 
-<p><img src="assets/docker-badge.svg" alt="Docker" height="30" />
-<img src="assets/kubernetes-badge.svg" alt="Kubernetes" height="30" />
-<img src="assets/google-cloud-badge.svg" alt="Google Cloud" height="30" /></p>
+<p><img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="48" height="48" />
+<img src="assets/icons/kubernetes.svg" alt="Kubernetes" title="Kubernetes" width="48" height="48" />
+<img src="assets/icons/google-cloud.svg" alt="Google Cloud" title="Google Cloud" width="48" height="48" /></p>
 
 **Инструменты**
 
-<p><img src="assets/git-badge.svg" alt="Git" height="30" />
-<img src="assets/linux-badge.svg" alt="Linux" height="30" />
-<img src="assets/vs-code-badge.svg" alt="VS Code" height="30" /></p>
+<p><img src="assets/icons/git.svg" alt="Git" title="Git" width="48" height="48" />
+<img src="assets/icons/linux.svg" alt="Linux" title="Linux" width="48" height="48" />
+<img src="assets/icons/vs-code.svg" alt="VS Code" title="VS Code" width="48" height="48" /></p>
 
 **Разработка игр**
 
-<p><img src="assets/unity-badge.svg" alt="Unity" height="30" /></p>
+<p><img src="assets/icons/unity.svg" alt="Unity" title="Unity" width="48" height="48" /></p>
 
 **Направления**
 
-<p><img src="assets/ai-badge.svg" alt="AI" height="30" />
-<img src="assets/data-science-badge.svg" alt="Data Science" height="30" /></p>
+<p><img src="assets/icons/ai.svg" alt="AI" title="AI" width="48" height="48" />
+<img src="assets/icons/data-science.svg" alt="Data Science" title="Data Science" width="48" height="48" /></p>
 
 ## Сейчас изучаю
 
-<img src="assets/rust-badge.svg" alt="Rust" height="30" />
+<img src="assets/icons/rust.svg" alt="Rust" title="Rust" width="48" height="48" />
 
 ## Интересы
 
