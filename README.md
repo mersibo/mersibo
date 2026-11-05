@@ -1,4 +1,4 @@
-<img src="assets/banner-brighter.png" alt="Kiyotaka Ayanokoji — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
+<img src="assets/banner-final.png" alt="Kiyotaka Ayanokoji — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
 
 # mersibo
 
