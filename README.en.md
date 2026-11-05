@@ -1,16 +1,16 @@
 <p align="right"><a href="README.md">RU</a> &nbsp; / &nbsp; <b>EN</b></p>
 
-<img src="assets/banner-brighter.png" alt="Аянокоджи Киётака — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
+<img src="assets/banner-final.png" alt="Аянокоджи Киётака — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
 
 <h1 align="center">mersibo</h1>
-<p align="center"><strong>Fullstack Developer</strong><br /><sub>Master’s degree · Information Security</sub></p>
+<p align="center"><strong>Fullstack Developer</strong><br /><sub>Master’s degree · Information Security and AI technologies</sub></p>
 <p align="center"><a href="https://t.me/prettyfacegoat" title="Telegram — @prettyfacegoat"><img src="assets/icons/telegram.svg" alt="Telegram" title="Telegram" width="40" height="40" /></a>&nbsp;&nbsp; <a href="https://steamcommunity.com/id/depressedcoder/" title="Steam — depressedcoder"><img src="assets/icons/steam.svg" alt="Steam" title="Steam" width="40" height="40" /></a></p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
 <h2>01 &nbsp; Profile</h2>
 
-<p>Fullstack developer with a master’s degree in Information Security. My stack spans web development, databases and infrastructure. I also work with Unity and explore AI and Data Science.</p>
+<p>Fullstack developer with a master’s degree in Information Security and AI technologies. My stack spans web development, databases and infrastructure. I also work with Unity and explore AI and Data Science.</p>
 
 <h3>Education</h3>
 <p><strong>HSE University</strong><br />Master’s degree in Information Security</p>
