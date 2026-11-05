@@ -3,7 +3,7 @@
 <img src="assets/banner-final.png" alt="Аянокоджи Киётака — Нет ничего опаснее невежественного друга, мудрый враг предпочтительнее" width="100%" />
 
 <h1 align="center">mersibo</h1>
-<p align="center"><strong>Fullstack-разработчик</strong><br /><sub>Магистр · Информационная безопасность</sub></p>
+<p align="center"><strong>Fullstack-разработчик</strong><br /><sub>Магистр · Информационная безопасность и технологии искусственного интеллекта</sub></p>
 <p align="center"><a href="https://t.me/prettyfacegoat" title="Telegram — @prettyfacegoat"><img src="assets/icons/telegram.svg" alt="Telegram" title="Telegram" width="40" height="40" /></a>&nbsp;&nbsp; <a href="https://steamcommunity.com/id/depressedcoder/" title="Steam — depressedcoder"><img src="assets/icons/steam.svg" alt="Steam" title="Steam" width="40" height="40" /></a></p>
 
 <img src="assets/divider.svg" alt="" width="100%" />
